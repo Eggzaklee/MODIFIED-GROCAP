@@ -1,0 +1,7 @@
+Username|zak
+Password|zak
+Gmail|bea123@gmail.com
+Budget|15000
+Savings|5000
+Visits|Every 2 Weeks
+Members|4 - 7 Family Members
